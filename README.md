@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
-<h3 align="center">French Data Scientist - Data Analyst</h3>
+<h3 align="center">French Data Analyst</h3>
 
 - 🔭 I’m currently seeking a job **Lille or Paris**
 
